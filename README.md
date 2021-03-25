@@ -10,10 +10,13 @@ I decided to take into account 4 factors.
 
 1.Game Score
 Who has the greatest Game Score? (Average)
+
 2.Longevity
 Who has played the most minutes in NBA? (Cumulative)
+
 3.Winnings
 Who has won the most titles? (Cumulative)
+
 4.Statistics
 Who is the better with the ball? (Average)
 Who is the better without the ball? (Average)
