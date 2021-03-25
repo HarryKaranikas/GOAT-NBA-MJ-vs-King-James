@@ -12,24 +12,27 @@ I decided to take into account 4 factors.
 
 Who has the greatest Game Score? (Average)
 
-2.Longevity
 
+2.Longevity
 
 Who has played the most minutes in NBA? (Cumulative)
 
-3.Winnings
 
+3.Winnings
 
 Who has won the most titles? (Cumulative)
 
-4.Statistics
 
+4.Statistics
 
 Who is the better with the ball? (Average)
 
 Who is the better without the ball? (Average)
 
 Who has on average the most points? (Average)
+
+
+
 
 
 Link to my Tableau public Viz
